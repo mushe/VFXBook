@@ -1,5 +1,5 @@
 # VFXBook
-書籍「[Unreal Engine 5で学ぶビジュアルエフェクト実装](https://amazon.co.jp/dp/4798177709/)」のサンプルプロジェクト(Unreal Engineのバージョンは5.1)です。
+書籍「[Unreal Engine 5で学ぶビジュアルエフェクト実装 基本機能からNiagara、シミュレーションまで](https://amazon.co.jp/dp/4798177709/)」のサンプルプロジェクト(Unreal Engineのバージョンは5.1)です。
 
 エフェクトが配置されたサンプルレベルは「Maps」フォルダにあり、開いてサンプルを見ることができます。
 
