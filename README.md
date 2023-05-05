@@ -13,6 +13,14 @@
 
 ![GIF 2023-04-24 16-38-35](https://user-images.githubusercontent.com/26865534/233930258-081d06fa-e072-4667-a6e9-2e2b374590a0.gif)
 
+・ネガポジ反転（4章「ポストプロセス（ポストエフェクト）を作成する」）
+
+<img src="https://user-images.githubusercontent.com/26865534/236382896-8f22355d-b9b7-46f6-9a5e-46f5a65354f4.png">
+
+・モノクロ（4章「ポストプロセス（ポストエフェクト）を作成する」）
+
+<img src="https://user-images.githubusercontent.com/26865534/236382327-9303974c-5c6f-4907-99d6-ee1e98470d1e.png">
+
 ・万華鏡エフェクト（4章「ポストプロセス（ポストエフェクト）を作成する」）
 
 ![GIF 2023-04-24 17-40-59](https://user-images.githubusercontent.com/26865534/233944996-4660ce62-d25a-4d8a-92fa-53cdffae6394.gif)
@@ -24,6 +32,10 @@
 ・Noise & Attraction & Trail（7章「Niagaraで基本的なエフェクトを作成する」 + 8章「Niagaraをゲームと連携させる」）
 
 ![GIF 2023-04-24 18-05-20](https://user-images.githubusercontent.com/26865534/233951445-a5d791f6-d221-4b5d-9fe7-981f6079a736.gif)
+
+・プレイヤーが近づくと広がる噴水エフェクト（8章「Niagaraをゲームと連携させる」）
+
+![GIF 2023-05-05 14-26-13](https://user-images.githubusercontent.com/26865534/236383217-175f8532-9dd6-4993-86d9-91be48c4167f.gif)
 
 ・ジェット噴射エフェクト（8章「Niagaraをゲームと連携させる」）
 
