@@ -1,3 +1,7 @@
+Discordサーバー（非公式）にて質問や雑談なども行う予定です。ぜひご参加ください！
+
+参加URL：https://discord.gg/hNPbaPt7H2
+
 # VFXBook
 書籍「[Unreal Engine 5で学ぶビジュアルエフェクト実装 基本機能からNiagara、シミュレーションまで](https://amazon.co.jp/dp/4798177709/)」のサンプルプロジェクト(Unreal Engineのバージョンは5.1)です。
 
